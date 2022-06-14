@@ -1,2 +1,3 @@
 # palindrom-reverse-ongkir-deret
-task tentang check palindrom, reverse, ongkir serta deret
+#dibuat oleh : ade ryzki
+task / tugas  tentang check palindrom, reverse, ongkir serta deret
